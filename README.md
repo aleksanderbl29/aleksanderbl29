@@ -8,18 +8,14 @@
 
 ## 📊 My Stats
 
+![aleksanderbl29's github stats](https://github-readme-stats.vercel.app/api?username=aleksanderbl29&show_icons=true&count_private=true&theme=transparent&hide=stars)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=?aleksanderbl29&theme=transparent&count_private=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksanderbl29&layout=compact&theme=transparent&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksanderbl29&layout=compact&theme=transparent" />
 </a>
-
-![aleksanderbl29's github stats](https://github-readme-stats.vercel.app/api?username=aleksanderbl29&show_icons=true&count_private=true&theme=transparent&hide=stars)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=?aleksanderbl29&theme=transparent&count_private=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksanderbl29&layout=compact&theme=transparent)
 
 ### 📫 How to reach me:
 You can always reach me on twitter @bang_aleksander!
