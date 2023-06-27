@@ -11,10 +11,10 @@
 ![aleksanderbl29's github stats](https://github-readme-stats.vercel.app/api?username=aleksanderbl29&show_icons=true&count_private=true&theme=transparent&hide=stars)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=?aleksanderbl29&theme=transparent&count_private=true&theme=transparent" />
+  <img height=175 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=?aleksanderbl29&theme=transparent&count_private=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksanderbl29&layout=compact&theme=transparent&card_width=320" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksanderbl29&layout=compact&theme=transparent&card_width=240" />
 </a>
 
 ### 📫 How to reach me:
