@@ -8,9 +8,9 @@
 
 ## 📊 My Stats
 
-[![aleksanderbl29's github stats](https://github-readme-stats.vercel.app/api?username=aleksanderbl29&show_icons=true&count_private=true&theme=radical&hide=stars)](github.com/aleksanderbl29)
+[![aleksanderbl29's github stats](https://github-readme-stats.vercel.app/api?username=aleksanderbl29&show_icons=true&count_private=true&theme=transparent&hide=stars)](github.com/aleksanderbl29)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=?aleksanderbl29&theme=dark&count_private=true&theme=radical)]([https://l.technotim.live/github](https://l.technotim.live/github))
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=?aleksanderbl29&theme=transparent&count_private=true&theme=transparent)]([https://l.technotim.live/github](https://l.technotim.live/github))
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/aleksanderbl29=anuraghazra&layout=compact)
 
