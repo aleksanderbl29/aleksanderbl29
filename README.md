@@ -12,7 +12,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=?aleksanderbl29&theme=transparent&count_private=true&theme=transparent)]([https://l.technotim.live/github](https://l.technotim.live/github))
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/aleksanderbl29=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=aleksanderbl29=anuraghazra&layout=compact)
 
 ### 📫 How to reach me:
 You can always reach me on twitter @bang_aleksander!
