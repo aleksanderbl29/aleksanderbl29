@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-## 🔭 I’m currently working:
-- I'm currently maintaining a forked repo with a Docker container that has both Pi-Hole and Unbound in one single container.
+## 🔭 I’m currently working on:
+- A forked repo with a Docker container that has both Pi-Hole and Unbound in one single container.
 - My homelab repo with configuration for the entire thing
 - I also contribute a bit to the Mac app called Stats
 
