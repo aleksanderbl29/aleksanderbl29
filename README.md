@@ -20,7 +20,7 @@
 </a>
 
 ### 📫 How to reach me:
-You can always reach me on twitter (or X) @bang_aleksander or via e-mail at [mailto:github@aleksanderbl.dk](github@aleksanderbl.dk) !
+You can always reach me on twitter (or X) @bang_aleksander or via e-mail at [github@aleksanderbl.dk](github@aleksanderbl.dk) !
 
 
 <!--
