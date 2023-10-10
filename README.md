@@ -1,10 +1,12 @@
 ## Hi there 👋
 
+## 📌 I'm maintaining
+- A Docker container that has both Pi-Hole and Unbound in one single container.
+
 ## 🔭 I’m currently working on:
-- A forked repo with a Docker container that has both Pi-Hole and Unbound in one single container.
 - My homelab repo with configuration for the entire thing
 - I also contribute a bit to the Mac app called Stats
-
+- I'm also learning R - My progress and the files for my learnings is in [Learning R](https://github.com/aleksanderbl29/learning-r)
 
 ## 📊 My Stats
 
@@ -18,7 +20,7 @@
 </a>
 
 ### 📫 How to reach me:
-You can always reach me on twitter @bang_aleksander!
+You can always reach me on twitter (or X) @bang_aleksander!
 
 
 <!--
