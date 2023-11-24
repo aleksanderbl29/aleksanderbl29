@@ -4,7 +4,7 @@
 
 I am a political science student @ Aarhus University in Denmark with special interests in quantitative data analysis and voter behaviour.
 
-In my free time I find a lot of joy in learning about Linux, Ansible and Home Assistant. A lot of things in tech pique my interest
+In my free time I find a lot of joy in learning about Linux, Docker, Ansible and Home Assistant. A lot of things in tech pique my interest
 
 ## 📌 I'm maintaining
 
