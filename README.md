@@ -6,7 +6,7 @@ I am a political science student @ Aarhus University in Denmark with special int
 
 In my free time I find a lot of joy in learning about Linux, Docker, Ansible and Home Assistant. A lot of things in tech pique my interest
 
-## 📌 I'm maintaining
+## 📌 I maintain
 
 - A Docker container that has both Pi-Hole and Unbound in one single container.
 
