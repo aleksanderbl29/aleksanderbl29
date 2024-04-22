@@ -14,7 +14,6 @@ In my free time I find a lot of joy in learning about Linux, Docker, Ansible and
 
 - [My homelab repo](https://github.com/aleksanderbl29/homelab) with configuration for the entire thing
   - Deployment of the entire homelab through [ansible](https://github.com/aleksanderbl29/ansible4homelab)
-- I contribute a bit to the Mac app called [Stats](https://github.com/exelban/stats)
 - I'm also learning R - My progress and the files for my learnings is in [Learning R](https://github.com/aleksanderbl29/learning-r)
 
 ## 📊 My Stats
