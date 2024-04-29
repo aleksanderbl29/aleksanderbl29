@@ -9,6 +9,9 @@ In my free time I find a lot of joy in learning about Linux, Docker, Ansible and
 ## 📌 I maintain
 
 - A Docker container that has both Pi-Hole and Unbound in one single container. My rendition of the image currently has [![Docker Pulls](https://img.shields.io/docker/pulls/aleksanderbl/pihole-unbound)](https://hub.docker.com/r/aleksanderbl/pihole-unbound)
+- A couple of ansible roles
+  - [HyperHDR deployment](https://github.com/aleksanderbl29/ansible-role-hyperhdr)
+  - [Sonos streamer for vinyl players with Icecast and Darkice](https://github.com/aleksanderbl29/ansible-role-sonos-stream)
 
 ## 🔭 I’m currently working on:
 
