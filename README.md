@@ -4,7 +4,7 @@
 
 I am a political science student @ Aarhus University with special interests in quantitative data analysis and voter behaviour.
 
-In my free time I find a lot of joy in learning about Linux, Docker, Ansible and Home Assistant. A lot of things in tech pique my interest
+In my free time I find a lot of joy in learning about Linux, Docker, Ansible, Nix and Home Assistant. A lot of things in tech pique my interest
 
 ## 📌 I maintain
 
@@ -18,7 +18,8 @@ In my free time I find a lot of joy in learning about Linux, Docker, Ansible and
 - [My homelab repo](https://github.com/aleksanderbl29/homelab) with configuration for the entire thing
   - Deployment of the entire homelab through [ansible](https://github.com/aleksanderbl29/ansible4homelab)
 - I'm also learning R - My progress and the files for my learnings is in [Learning R](https://github.com/aleksanderbl29/learning-r)
-- My bachelor's project - It will be available at [github.com/aleksanderbl29/bachelor](https://github.com/aleksanderbl29/bachelor) when it is finished.
+- [My nix-config](https://github.com/aleksanderbl29/nix-config) with configuration for my personal mac-system using nix, nix-darwin and home-manager.
+- A couple of R packages that will be linked here when they're a bit further along in development.
 
 ## 📊 My Stats
 
@@ -34,19 +35,3 @@ In my free time I find a lot of joy in learning about Linux, Docker, Ansible and
 ### 📫 How to reach me:
 
 You can always reach me on twitter (or X) @bang_aleksander or via e-mail at github@aleksanderbl.dk
-
-
-<!--
-**aleksanderbl29/aleksanderbl29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
