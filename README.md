@@ -19,7 +19,7 @@ In my free time I find a lot of joy in learning about Linux, Docker, Ansible, Ni
   - Deployment of the entire homelab through [ansible](https://github.com/aleksanderbl29/ansible4homelab)
 - I'm also learning R - My progress and the files for my learnings is in [Learning R](https://github.com/aleksanderbl29/learning-r)
 - [My nix-config](https://github.com/aleksanderbl29/nix-config) with configuration for my personal mac-system using nix, nix-darwin and home-manager.
-- A couple of R packages that will be linked here when they're a bit further along in development.
+- The R-package [dawaR](https://github.com/aleksanderbl29/dawaR) that wraps the Danish Web Address API.
 
 ## 📊 My Stats
 
