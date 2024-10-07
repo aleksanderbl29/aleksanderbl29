@@ -20,6 +20,7 @@ In my free time I find a lot of joy in learning about Linux, Docker, Ansible, Ni
 - I'm also learning R - My progress and the files for my learnings is in [Learning R](https://github.com/aleksanderbl29/learning-r)
 - [My nix-config](https://github.com/aleksanderbl29/nix-config) with configuration for my personal mac-system using nix, nix-darwin and home-manager.
 - The R-package [dawaR](https://github.com/aleksanderbl29/dawaR) that wraps the Danish Web Address API.
+- The R-package [aleksandeR](https://github.com/aleksanderbl29/aleksandeR) to provide personal functions for my own convenience.
 
 ## 📊 My Stats
 
