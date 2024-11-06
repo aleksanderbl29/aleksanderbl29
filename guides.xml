@@ -10,7 +10,7 @@
 <atom:link href="https://aleksanderbl.dk/guides.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Sun, 13 Oct 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 14 Oct 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Introducerer {dawaR}</title>
   <dc:creator>Aleksander Bang-Larsen</dc:creator>
@@ -283,7 +283,7 @@ Bang-Larsen, Aleksander. 2024. <span>“Introducerer `{dawaR}`.”</span>
 October 14, 2024. <a href="https://aleksanderbl.dk/guides/2024-10-14-introducer-dawar">https://aleksanderbl.dk/guides/2024-10-14-introducer-dawar</a>.
 </div></div></section></div> ]]></description>
   <guid>https://aleksanderbl.dk/guides/2024-10-14-introducer-dawar/</guid>
-  <pubDate>Sun, 13 Oct 2024 22:00:00 GMT</pubDate>
+  <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Nemt Danmarkskort i R</title>
@@ -565,7 +565,7 @@ Bang-Larsen, Aleksander. 2024. <span>“Nemt Danmarkskort i R.”</span>
 June 29, 2024. <a href="https://aleksanderbl.dk/guides/2024-05-19-danmarkskort-i-r">https://aleksanderbl.dk/guides/2024-05-19-danmarkskort-i-r</a>.
 </div></div></section></div> ]]></description>
   <guid>https://aleksanderbl.dk/guides/2024-06-29-danmarkskort-i-r/</guid>
-  <pubDate>Fri, 28 Jun 2024 22:00:00 GMT</pubDate>
+  <pubDate>Sat, 29 Jun 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
